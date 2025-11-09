@@ -78,8 +78,8 @@ The demo illustrates:
 - Real-time speech synthesis  
 - Contextual conversation with project updates  
 
-**Demo Link:** [Add Loom / Drive link here]  
-**Repository:** [https://github.com/Satyam0775/AI-Voice-Agent](https://github.com/Satyam0775/AI-Voice-Agent)
+**![Uploading Screenshot 2025-11-09 191948.png…]()
+
 
 ---
 

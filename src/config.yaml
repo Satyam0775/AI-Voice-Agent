@@ -1,0 +1,4 @@
+llm_provider: "huggingface"
+voice_provider: "gtts"
+language: "en-IN"
+memory_enabled: true

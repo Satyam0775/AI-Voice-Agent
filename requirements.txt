@@ -1,0 +1,9 @@
+streamlit
+streamlit_mic_recorder
+sounddevice
+numpy
+scipy
+google-generativeai
+python-dotenv
+gtts
+pygame

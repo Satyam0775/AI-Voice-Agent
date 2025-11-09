@@ -78,7 +78,10 @@ The demo illustrates:
 - Real-time speech synthesis  
 - Contextual conversation with project updates  
 
-**![Uploading Screenshot 2025-11-09 191948.png…]()
+**🧩 Demo Preview
+
+![Chatbot UI Preview](Add <img width="571" height="378" alt="Screenshot 2025-11-09 191948" src="https://github.com/user-attachments/assets/832c33a8-5079-43e5-a6a7-9de70433ccad" />
+)
 
 
 ---
@@ -97,9 +100,6 @@ it’s the beginning of a relationship that feels personal and genuine.
 
 **Satyam Kumar**  
 AI & Data Science Developer  
-Email: [your email address]  
-GitHub: [https://github.com/Satyam0775](https://github.com/Satyam0775)  
-LinkedIn: [Add your LinkedIn link]
 
 ---
 
